@@ -1,7 +1,7 @@
-ONLINE MOVIE TICKET BOOKING SYSTEM
-
+# ONLINE MOVIE TICKET BOOKING SYSTEM
+--------------------------------------------------
 Packages required are:
-
+---------------------
 1. django-allauth
 2. django-crispy-forms
 3. stripe
@@ -12,7 +12,8 @@ Packages required are:
 8. pandas
 9. numpy
 
+-------------------------------------------------------------
 
 Execution:
-
+----------
 python manage.py runserver
